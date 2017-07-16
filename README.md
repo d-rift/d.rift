@@ -5,3 +5,17 @@ d.rift browser
 - textarea/input saving and versioning.
 - social harmony. socialize based on contacts, not services.
 - automatic login using ssh public keys for sites that support it.
+- bookmarking
+  - auto-tag based on content and tags of inbound and outbound links
+  - sorting
+    - date
+      - accessed
+      - bookmarked
+      - edited
+      - tagged
+      - updated
+      - referenced
+    - priority
+    - task
+    - project
+    
